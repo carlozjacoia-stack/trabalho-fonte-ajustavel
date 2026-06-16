@@ -56,10 +56,10 @@ Projeto que consistiu em desenvolver uma fonte de tensão ajustável de 3V a 12V
 ![imagem do circuito no falstad](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/falstad.png)
 
 # Imagens do projeto
-![foto protoboard]()
+![foto protoboard](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/img1.jpeg)
 
-# Esquemático no Eagle
-
+# Esquemático no EasyEDA
+![imagem do circuito no easyeda]()
 # PCB no Eagle
 
 # Vídeo explicativo sobre o projeto
