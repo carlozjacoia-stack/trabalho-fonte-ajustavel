@@ -61,7 +61,7 @@ Projeto que consistiu em desenvolver uma fonte de tensão ajustável de 3V a 12V
 # Esquemático no EasyEDA
 ![imagem do circuito no easyeda]()
 
-# PCB no Eagle
+# PCB no EasyEDA
 ![pcb no easyeda]()
 
 # Vídeo explicativo sobre o projeto
