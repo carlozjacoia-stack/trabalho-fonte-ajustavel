@@ -4,8 +4,8 @@ Projeto que consistiu em desenvolver uma fonte de tensão ajustável de 3V a 12V
 
 # Alunos
   * Carloz Eduardo Rosa Jacoia #16859644
-  * Luana Sampaio de Oliveira #
-  * Rafael Tiosso Brancalhão #
+  * Luana Sampaio de Oliveira #17827254
+  * Rafael Tiosso Brancalhão #17921072
 
 # Componentes
 
