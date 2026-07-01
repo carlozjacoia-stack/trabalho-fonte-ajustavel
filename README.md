@@ -20,8 +20,8 @@ Projeto que consistiu em desenvolver uma fonte de tensão ajustável de 3V a 12V
 | Total || R$8,80 |
 
 ## Cálculo dos Componentes
-![imagem dos calculos](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/calculos01.jpg)
 ![imagem dos calculos](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/calculos2.jpg)
+![imagem dos calculos](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/calculos1.jpg)
 ![imagem dos calculos](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/calculos3.jpg)
 ![imagem dos calculos](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/calculos4.jpg)
 
