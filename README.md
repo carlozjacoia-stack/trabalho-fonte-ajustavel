@@ -3,9 +3,9 @@
 Projeto que consistiu em desenvolver uma fonte de tensão ajustável de 3V a 12V, com uma corrente de 100mA. Realizado na disciplina SSC0180 - Eletrônica para Computação, aplicada pelo professor Eduardo do Valle Simões.
 
 # Alunos
-  * Carloz Eduardo Rosa Jacoia #16859644
-  * Luana Sampaio de Oliveira #17827254
-  * Rafael Tiosso Brancalhão #17921072
+  * Carloz Eduardo Rosa Jacoia 
+  * Luana Sampaio de Oliveira 
+  * Rafael Tiosso Brancalhão 
 
 # Componentes
 
