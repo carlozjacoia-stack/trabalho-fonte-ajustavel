@@ -60,7 +60,7 @@ Projeto que consistiu em desenvolver uma fonte de tensão ajustável de 3V a 12V
 ![imagem do circuito no falstad](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/falstad.png)
 
 ## Circuito no [Tinkercard](https://www.tinkercad.com/things/l9UhiK8Y2Oc/editel?sharecode=yw8mJ5DUdLAdDDhVdJ3wQUsRnMOVzYpLXuQsIO4OjJ8)
-![imagem do circuito no tinkercard](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/circuito_no_tinkercard.png)
+![imagem do circuito no tinkercard](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/circuito_tinkercard.png)
 
 ## Foto do circuito
 ![foto protoboard](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/foto_circuito.jpeg)
