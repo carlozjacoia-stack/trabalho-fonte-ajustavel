@@ -63,13 +63,13 @@ Projeto que consistiu em desenvolver uma fonte de tensão ajustável de 3V a 12V
 ![imagem do circuito no tinkercard](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/circuito_tinkercard.png)
 
 ## Foto do circuito
-![foto protoboard](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/foto_circuito.jpeg)
+![foto protoboard](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/foto.jpeg)
 
 ## Esquemático no [EasyEDA](https://oshwlab.com/carloz.jacoia/project_pjhicrbv)
-![imagem do circuito no easyeda](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/easyEDA.png)
+![imagem do circuito no easyeda](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/circuito_EasyEDA.png)
 
 ## PCB no [EasyEDA](https://oshwlab.com/carloz.jacoia/project_pjhicrbv)
-![pcb no easyeda](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/pcbEasyEDA.png)
+![pcb no easyeda](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/pcb_EasyEDA.png)
 
 # Vídeo explicativo sobre o projeto
 
