@@ -20,6 +20,10 @@ Projeto que consistiu em desenvolver uma fonte de tensão ajustável de 3V a 12V
 | Total || R$8,80 |
 
 ## Cálculo dos Componentes
+![imagem dos calculos 1](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/calculos1.jpg)
+![imagem dos calculos 2](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/calculos2.jpg)
+![imagem dos calculos 3](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/calculos3.jpg)
+![imagem dos calculos 4](https://github.com/carlozjacoia-stack/trabalho-fonte-ajustavel/blob/main/calculos4.jpg)
 
 ## Diodos
 * São componentes semicondutores que atuam como "válvulas", permitindo que a corrente elétrica flua em apenas um sentido.
